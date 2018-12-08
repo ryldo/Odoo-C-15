@@ -1,0 +1,26 @@
+Observaciones:
+	1. El proceso de administrar permisos para poder acceder o realizar acciones en un sistema 
+	es de suma importancia para la seguridad de información.
+	2. Oddo administra los permisos de una manera eficiente y práctica, motivo por el que
+		nos continúa sorprendiendo.
+	3. En algunos casos es mejor administar y otorgar los permisos desde código para tener un
+		mejor control sobre lo que hacemos.
+	4. El módulo de website nos permite ahorrar una cantidad enorme de trabajo en el desarrollo 
+		de la interfaz pública de nuestra aplicación.
+	5. Es necesario comprender y conocer los tipos de comunicación e integración que ofrece
+		Odoo para comunicarse con otras aplicaciones.
+Conclusiones:
+	1. A través de los años el ser humano ha creado nuevos servicios que ha permitido un 
+		acercamiento con los clientes, conociendo sus necesidades reales, esto va siempre de la 
+	mano de la tecnología.
+	2. Actualmente quien no implemente software tecnológico en su empresa estará fuera del 
+		mercado.
+	3. Estos sistemas nos permiten tener una plataforma real de cada uno de los procesos de la 
+		compañía, con el fin de analizarla e interpretarla para tomar las mejores decisiones, es
+		claro que una empresa es competitiva cuando cuenta con información real, en el tiempo
+		real,es decir al alcance de todos.
+	4. Aunque estas inversiones sean un poco costosas y lleven tiempo, es claro saber que son 
+		grandes inversiones para obtener grandes resultados, es necesario que cada uno de los
+	 	departamentos de la compañía estén integrados, siempre trabajando por el mismo objetivo.
+	5. Los avances tecnológicos continúan cambiando el estilo de vida de la gente, desde la 
+		manera de adquirir productos y servicios, hasta la manera de comunicárselo a la empresa.

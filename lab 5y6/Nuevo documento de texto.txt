@@ -1,0 +1,52 @@
+1. ¿Qué es el PETI?
+El PETI es el documento de gestión que orienta el desarrollo de las TICs en cualquier empresa, a fin de que en la ejecución de un portafolio de proyectos informáticos estratégicos soporte a la organización en su meta de realizar la visión/misión que se propone. Es un Plan de Acción, Hoja de Ruta o Pasos ordenados y estructurados que permiten en un cierto horizonte de tiempo implementar una arquitectura de TI deseada para soportar los objetivos estratégicos de la organización.
+2. Elabore una descripción detallada de la aplicación del PETI (modelos, vistas)
+Ejemplo de aplicación de un plan estratégico de Tecnologías de la información.
+La Consultoria de CASTACOM S.A. claro que este plan cambia dependiendo la empresa, y las necesidades que cubre la empresa:
+Alineamiento
+Alineamiento del Plan Estratégico de Tecnologías de Información con el Plan Estratégico de Corporativo de la empresa o Institución cliente.
+Funciones, Sistemas y Datos
+? Desarrollar un levantamiento de Información funcional en todas las Gerencias y Oficinas de de la empresa o Institución cliente.
+? Definir y Redefinir las funciones de cada uno de los Sistemas y Subsistemas existentes y ha implementar.
+? Definir un Modelo de Datos coherente y soportado bajo estándares para la empresa.
+Infraestructura
+? Evaluar la actual infraestructura tecnológica, su vigencia y estado actual para la definición de los nuevos requerimientos de software y hardware necesarios para la puesta en marcha de los sistemas definidos en el nuevo Plan Estratégico de Tecnologías de Información.
+Diseñar recomendaciones sujetas a estándares internacionales para la optimización de las Telecomunicaciones en la empresa.
+Gestión
+? Se deberá dar un importante énfasis en la Implementación de técnicas para el manejo de un Cuadro de Mando Integral que permita realizar el seguimiento y control del Plan Estratégico Corporativo de la empresa.
+? Se deberá Actualizar y mejorar la Estructura Orgánica de la Oficina de Informática acorde a las Tecnologías de Información de mayor prospectiva.
+? Se sujetaran todas las recomendaciones a la norma UNE-ISO 17799:2002 para cubrir los aspectos fundamentales de la seguridad en el tratamiento de la información.
+Proyecto
+? La Consultoría será considerada como un Proyecto mientras este en el plazo de ejecución, siendo la primera semana la presentación y aprobación del Plan de Trabajo.
+? Los entregables de la Consultoría se presentarán al finalizar cada una de las etapas y serán sustentados al comité permanente.
+? Se Programarán reuniones de trabajo y los acuerdos tomados se sustentarán a través de Actas de Reunión firmadas por cada uno de los miembros del comité permanente.
+? Se brindara la disponibilidad de un ambiente adecuado, equipos de computo, audiovisual, acceso a Internet para las reuniones a realizarse dentro del Proyecto de Consultoría.
+? Se entregarán informes semanales del avance al Jefe de Proyecto, considerando el estado de la Consultoría.
+La conformidad de la Consultoría será entregada en el plazo estipulado y previa aprobación del comité permanente en un acta firmada.
+CASTACOM S.A. En el desarrollo de la Consultoría aplicará una metodología que permita desarrollar:
+El análisis de la situación actual.
+El análisis funcional que permitirá definir la arquitectura de procesos.
+La arquitectura de datos.
+La arquitectura de los sistemas de información
+La arquitectura tecnológica; y
+La arquitectura de Telecomunicaciones.
+CASTACOM S.A. para el desarrollo del Proyecto de Consultoria del PETI tiene definidas las siguientes fases y correspondientes entregables:
+FASES DE LA PLANIFICACION ESTRATÉGICA DE TECNOLOGÍA INFORMACIÓN
+1. Inicio del Proyecto
+E1 : Plan de Trabajo
+2. Alineamiento del Plan Estratégico de Tecnologías de Información con el Plan Estratégico del cliente
+E2 : Cuadro de Mando Integral
+3. Desarrollo del Plan Estratégico de Tecnologías de Información del cliente
+E3 : Análisis de la Situación Informática Actual
+E4 : Arquitectura de Procesos
+E5 : Arquitectura de Datos
+E6 : Arquitectura de Aplicaciones
+E7 : Arquitectura Tecnológica
+4. Desarrollo de las Iniciativas Estratégicas y Cartera de Proyectos de Sistemas de Información y Telecomunicaciones
+E8 : Iniciativas Estratégicas
+E9 : Cartera de Proyectos de Tecnologías de Información
+5. Recomendación de Controles a Implementar según la Norma ISO 17799
+E10 : Controles a Implementar
+6. Cierre del proyecto
+E11: Plan Estratégico de Tecnologías de Información.
+Esto es solo una de los planes estratégicos como ejemplo que realiza la metodología de un proyecto de PLAN ESTRATÉGICO DE TECNOLOGÍA DE INFORMACIÓN (PETI)

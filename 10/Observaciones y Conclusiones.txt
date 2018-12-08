@@ -1,0 +1,15 @@
+	OBSERVACIONES
+
+1.	Odoo ERP se ha consolidado como la principal alternativa gratuita que cambia el mercado para los sistemas de gestión empresarial en software de gigantes como SAP, Oracle y Microsoft, y de los pequeños desarrolladores de software en sus propios nichos.
+2.	Hasta ahora, solo existían dos alternativas principales para los sistemas que administran la información de una empresa: instalar un sistema ERP propietario, completo pero generalmente con sobrepeso, inflexible y costoso; o desarrollar una solución internamente, adaptada a las necesidades actuales pero a menudo costosa de desarrollar, no integrada e incompleta.
+3.	Con su modelo de negocio gratuito, Open ERP combina las ventajas de un sistema ERP completo con la flexibilidad de una solución interna.
+4.	El código de fuente abierta, la flexibilidad general del proyecto y sus cientos de módulos le permiten construir una solución a partir de una selección de los módulos ya disponibles y luego puede actualizarla libremente a medida que sus necesidades evolucionen.
+5.	Los resultados estarán en el extremo superior de lo que podría esperar de cualquier sistema ERP, y mucho menos un sistema de código abierto.
+
+	CONCLUSIONES
+
+1.	 Las considerables ganancias en productividad, eficiencia y visibilidad se hacen evidentes solo unos meses después de la implementación.
+2.	Puede beneficiarse de una mayor calidad operativa incluso si reduce la intensidad de sus recursos humanos. Como su personal tiene menos tareas repetitivas, pueden concentrarse en un trabajo de mayor valor agregado.
+3.	Con frecuencia recibimos la gratitud de la alta gerencia que obtiene mejores resultados de sus negocios porque han adoptado Open ERP.
+4.	Las empresas más grandes a menudo prefieren una ruta de implementación más clásica.
+5.	A pesar de que la simplicidad de Open ERP hace que esta tarea sea más fácil que con otros sistemas, no puede ocultar el hecho de que la implementación de un proyecto es compleja e introduce grandes cambios en una empresa.
